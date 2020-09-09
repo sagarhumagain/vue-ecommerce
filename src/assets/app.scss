@@ -1,0 +1,14 @@
+@import "~bootstrap/scss/bootstrap";
+@import "./admin.scss";
+
+.containe {
+  width: 1080px;
+}
+.toggleopen {
+  float: left;
+  position: absolute;
+  left: -23px;
+  background: black;
+  border: none;
+  color: white;
+}
